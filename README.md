@@ -13,3 +13,9 @@ Learned it’s like a virtual machine (similar to VMware)
 Launched a Windows EC2 instance using Microsoft AMI on AWS.
 Learned the use of .pem files for secure instance access.
 Explored PuTTY and PuTTYgen to convert .pem to .ppk format.
+
+# Day 3 – WEB SERVER (May 23, 2025)
+Learned what a web server is and explored types: Apache HTTP, Nginx, IIS.
+Installed Apache HTTP (httpd) on a Linux machine.
+Converted Linux machine into a working web server.
+
