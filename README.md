@@ -1,4 +1,4 @@
-# 30 days cloud
+# 30 days AWS cloud journey
 This repository is a daily log of my 30 day cloud learning journey.
 i'm focusing on AWS, Git, Linux and other begineer-friendly tools to get started in cloud engineering.
 
