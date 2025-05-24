@@ -19,3 +19,8 @@ Learned what a web server is and explored types: Apache HTTP, Nginx, IIS.
 Installed Apache HTTP (httpd) on a Linux machine.
 Converted Linux machine into a working web server.
 
+# Day 4: LOAD BALANCER(May 24,2025)
+Created two EC2 instances with different AMIs and deployed a basic web app on both.
+Set up an Application Load Balancer (ALB) and attached both instances to distribute traffic evenly.
+
+
