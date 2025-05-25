@@ -23,4 +23,13 @@ Converted Linux machine into a working web server.
 Created two EC2 instances with different AMIs and deployed a basic web app on both.
 Set up an Application Load Balancer (ALB) and attached both instances to distribute traffic evenly.
 
+# Day 5 – AUTO SCALING, SNS, CLOUDWATCH (May 25, 2025)
+Configured a Launch Configuration and Auto Scaling Group with EC2 instances.
+Integrated an Application Load Balancer for traffic distribution.
+Applied Target Tracking and Step Scaling policies.
+Set up CloudWatch alarms to monitor CPU usage.
+Connected SNS to send email notifications on scaling events.
+
+
+
 
