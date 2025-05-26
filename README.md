@@ -30,6 +30,10 @@ Applied Target Tracking and Step Scaling policies.
 Set up CloudWatch alarms to monitor CPU usage.
 Connected SNS to send email notifications on scaling events.
 
+# Day 6- SNS service
+Learned about SNS and Security Check  
+auto scaling policies
+
 
 
 
