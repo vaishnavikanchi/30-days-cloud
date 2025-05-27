@@ -34,6 +34,10 @@ Connected SNS to send email notifications on scaling events.
 Learned about SNS and Security Check  
 auto scaling policies
 
+# Day 7: Auto Scaling(May 27,2025)
+Protecting instance with accidental termination
+Understanding   Scale UP/ Down , Scale IN / OUT
+Attach / Detach Volume
 
 
 
