@@ -39,5 +39,9 @@ Protecting instance with accidental termination
 Understanding   Scale UP/ Down , Scale IN / OUT
 Attach / Detach Volume
 
+# Day 8: S3(May 28,2025)
+understanding S3,features,creating bucket
+uploading object into bucket,accessing the object,making object private.
+
 
 
