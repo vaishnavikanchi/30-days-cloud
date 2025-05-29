@@ -43,5 +43,9 @@ Attach / Detach Volume
 understanding S3,features,creating bucket
 uploading object into bucket,accessing the object,making object private.
 
+#Day 9: Amazon S3 concepts(May 29,2025)
+S3 – including versioning, storage classes
+the lifecycle policies of S3,static website hosting.  
+
 
 
