@@ -47,5 +47,9 @@ uploading object into bucket,accessing the object,making object private.
 S3 – including versioning, storage classes
 the lifecycle policies of S3,static website hosting.  
 
+# Day 10: S3 concepts(May 30,2025)
+classes/tiers,cross redion replication.
+transfer accelaration,encryption.
+
 
 
