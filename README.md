@@ -51,5 +51,11 @@ the lifecycle policies of S3,static website hosting.
 classes/tiers,cross redion replication.
 transfer accelaration,encryption.
 
+# Day 11:S3 concepts(May 31,2025)
+ Learned the concepts of S3 tags,metadata,ACL,Bucker policies &
+ Life cycle management.
+
+
+
 
 
