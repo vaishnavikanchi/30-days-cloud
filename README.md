@@ -55,6 +55,14 @@ transfer accelaration,encryption.
  Learned the concepts of S3 tags,metadata,ACL,Bucker policies &
  Life cycle management.
 
+ # Day 12: IAM(June 1,2025)
+ learned the concepts IAM
+ Difference between root user and IAM User
+ Creating User, attaching Policies to user
+ Creating Group, attaching policies to group
+ Add users to Group
+
+
 
 
 
