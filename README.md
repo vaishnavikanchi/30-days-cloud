@@ -62,6 +62,10 @@ transfer accelaration,encryption.
  Creating Group, attaching policies to group
  Add users to Group
 
+# Day 13: IAM(June 2,2025)
+AWS CLI
+AWS CLI on Linux
+understood IAM roles
 
 
 
