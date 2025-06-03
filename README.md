@@ -67,6 +67,9 @@ AWS CLI
 AWS CLI on Linux
 understood IAM roles
 
+#Day 14: IAM(June 3,2025)
+finished IAM basics concepts 
+
 
 
 
