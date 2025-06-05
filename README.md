@@ -70,6 +70,9 @@ understood IAM roles
 # Day 14: IAM(June 3,2025)
 finished IAM basics concepts 
 
+# Day 15: vpc(June 6,2025)
+vpc, understanding subnet, creating vpc and subnet
+
 
 
 
