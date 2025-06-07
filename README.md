@@ -73,6 +73,12 @@ finished IAM basics concepts
 # Day 15: vpc(June 6,2025)
 vpc, understanding subnet, creating vpc and subnet
 
+# Day 16: vpc(June 7,2025)
+behavior of public and private subnet
+working with internet gateway
+working with route table
+making subnet public.
+
 
 
 
