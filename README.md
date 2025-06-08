@@ -79,6 +79,10 @@ working with internet gateway
 working with route table
 making subnet public.
 
+# Day 17 : vpc(june 8,2025)
+NAT Gateway
+Understanding NACL
+Ephemeral Ports
 
 
 
